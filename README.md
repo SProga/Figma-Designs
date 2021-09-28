@@ -1,4 +1,4 @@
 # Figma-Designs
 
-#Simple Card
+1. Simple Card
 <img src="./PostCard.png" />
