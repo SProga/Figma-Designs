@@ -9,6 +9,4 @@
 
 
 
-3. Promotion Card
-
-<img src="./demo(black).png" />
+\
