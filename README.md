@@ -7,6 +7,7 @@
 2. Card for Animals
 <img src="./exotic.png" />
 
+3. Component Design Practise
+<img src="./componentPractise.png" />
 
 
-\
